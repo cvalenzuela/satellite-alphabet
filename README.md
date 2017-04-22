@@ -6,7 +6,7 @@ An experiment to create a Satellite based typography.
 
 ## Live
 
-[Live here](https://cvalenzuela.github.io/Data-and-Digital-Mapping/assignment1/index.html)
+[Live here](http://satellite-alphabet.cvalenzuelab.com)
 
 
 ## Inspiration
